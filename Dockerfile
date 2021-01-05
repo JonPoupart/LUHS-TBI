@@ -16,7 +16,7 @@ RUN apt-get install -y teeworlds-server pwgen
 COPY /FileStorage/Configs/BETA/DanS1VM1.cfg /usr/share/games/teeworlds/data/DanS1VM1.cfg
 COPY /FileStorage/Configs/BETA/TW_secretproject.cfg /usr/share/games/teeworlds/data/TW_secretproject.cfg
 COPY /FileStorage/Configs/BETA/TW_Hyperspeed.cfg /usr/share/games/teeworlds/data/TW_Hyperspeed.cfg
-COPY /FileStorage/Configs/BETA/TW_SloMo.cfg /usr/share/games/teeworlds/data/TW_SloMo.cfg
+COPY /FileStorage/Configs/BETA/TrevBetaMaps/TW_SloMo.cfg /usr/share/games/teeworlds/data/TW_SloMo.cfg
 COPY /FileStorage/Configs/BETA/JR_speeeeed.cfg /usr/share/games/teeworlds/data/JR_speeeeed.cfg
 COPY /FileStorage/Configs/BETA/JR_Lowgravity.cfg /usr/share/games/teeworlds/data/JR_Lowgravity.cfg
 COPY /FileStorage/Configs/BETA/rfinal.cfg /usr/share/games/teeworlds/data/rfinal.cfg
@@ -52,8 +52,8 @@ COPY /FileStorage/Configs/ALPHA/TrevAlphaCFG/TWM2MOD.cfg /usr/share/games/teewor
 #-----COPY /FileStorage/Maps/ALPHA/xxx.map /root/.local/share/teeworlds/maps/xxx.map
 #-----BETA-----#
 COPY /FileStorage/Maps/BETA/DanMap1.map /root/.local/share/teeworlds/maps/DanMap1.map
-COPY /FileStorage/Maps/BETA/TrevDesertFinal.map /root/.local/share/teeworlds/maps/TrevDesertFinal.map
-COPY /FileStorage/Maps/BETA/TrevDesertFinalSP.map /root/.local/share/teeworlds/maps/TrevDesertFinalSP.map
+COPY /FileStorage/Maps/BETA/TrevBetaMaps/TrevDesertFinal.map /root/.local/share/teeworlds/maps/TrevDesertFinal.map
+COPY /FileStorage/Maps/BETA/TrevBetaMaps/TrevDesertFinalSP.map /root/.local/share/teeworlds/maps/TrevDesertFinalSP.map
 COPY /FileStorage/Maps/BETA/skyislands.map /root/.local/share/teeworlds/maps/skyislands.map
 COPY /FileStorage/Maps/BETA/sweatynerd.map /root/.local/share/teeworlds/maps/sweatynerd.map
 #-----ALPHA-----#
