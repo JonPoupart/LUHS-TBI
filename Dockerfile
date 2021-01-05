@@ -16,7 +16,7 @@ RUN apt-get install -y teeworlds-server pwgen
 COPY /FileStorage/Configs/BETA/DanS1VM1.cfg /usr/share/games/teeworlds/data/DanS1VM1.cfg
 COPY /FileStorage/Configs/BETA/TW_secretproject.cfg /usr/share/games/teeworlds/data/TW_secretproject.cfg
 COPY /FileStorage/Configs/BETA/TW_Hyperspeed.cfg /usr/share/games/teeworlds/data/TW_Hyperspeed.cfg
-COPY /FileStorage/Configs/BETA/TrevBetaMaps/TW_SloMo.cfg /usr/share/games/teeworlds/data/TW_SloMo.cfg
+COPY /FileStorage/Configs/BETA/TW_SloMo.cfg /usr/share/games/teeworlds/data/TW_SloMo.cfg
 COPY /FileStorage/Configs/BETA/JR_speeeeed.cfg /usr/share/games/teeworlds/data/JR_speeeeed.cfg
 COPY /FileStorage/Configs/BETA/JR_Lowgravity.cfg /usr/share/games/teeworlds/data/JR_Lowgravity.cfg
 COPY /FileStorage/Configs/BETA/rfinal.cfg /usr/share/games/teeworlds/data/rfinal.cfg
