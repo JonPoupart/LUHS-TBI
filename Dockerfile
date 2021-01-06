@@ -2,8 +2,10 @@
 FROM ubuntu:20.04
 
 #-----OS STUFF-----#
-#Updates our OS
+#Updates our package lists
 RUN apt-get update
+#Upgrades our system based on the package lists
+RUN apt-get upgrade
 #Installs teeworlds-server
 RUN apt-get install -y teeworlds-server pwgen
 
