@@ -59,8 +59,8 @@ COPY /FileStorage/Maps/BETA/sweatynerd.map /root/.local/share/teeworlds/maps/swe
 #-----ALPHA-----#
 COPY /FileStorage/Maps/ALPHA/Dan/DNM1.map /root/.local/share/teeworlds/maps/DNM1.map
 COPY /FileStorage/Maps/ALPHA/Dan/DNM2.map /root/.local/share/teeworlds/maps/DNM2.map
-#COPY /FileStorage/Maps/ALPHA/Trev/TWM1.map /root/.local/share/teeworlds/maps/TWM1.map
-#COPY /FileStorage/Maps/ALPHA/Trev/TWM2.map /root/.local/share/teeworlds/maps/TWM2.map
+COPY /FileStorage/Maps/ALPHA/Trev/TWM1.map /root/.local/share/teeworlds/maps/TWM1.map
+COPY /FileStorage/Maps/ALPHA/Trev/TWM2.map /root/.local/share/teeworlds/maps/TWM2.map
 #COPY /FileStorage/Maps/ALPHA/Josh/JRM1.map /root/.local/share/teeworlds/maps/JRM1.map
 #COPY /FileStorage/Maps/ALPHA/Josh/JRM2.map /root/.local/share/teeworlds/maps/JRM2.map
 #COPY /FileStorage/Maps/ALPHA/Remy/RHM1.map /root/.local/share/teeworlds/maps/RHM1.map
