@@ -9,7 +9,6 @@ RUN apt-get upgrade -y
 #Installs teeworlds-server
 RUN apt-get install -y teeworlds-server pwgen
 
-RUN echo "I love you"
 #-----FILES AND DIRECTORIES-----#
 
 #DATADIR - This is where the configs go
