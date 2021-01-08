@@ -8,7 +8,7 @@ RUN apt-get update
 RUN apt-get upgrade -y
 #Installs teeworlds-server
 RUN apt-get install -y teeworlds-server pwgen
-
+RUN echo "I like pie"
 #-----FILES AND DIRECTORIES-----#
 
 #DATADIR - This is where the configs go
