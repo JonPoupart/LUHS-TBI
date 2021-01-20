@@ -39,19 +39,19 @@ COPY /FileStorage/Configs/ALPHA/TrevAlphaCFG/TWM2TDM.cfg /usr/share/games/teewor
 COPY /FileStorage/Configs/ALPHA/TrevAlphaCFG/TWM1MOD.cfg /usr/share/games/teeworlds/data/TWM1MOD.cfg
 COPY /FileStorage/Configs/ALPHA/TrevAlphaCFG/TWM2MOD.cfg /usr/share/games/teeworlds/data/TWM2MOD.cfg
 #JOSH
-COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/CTF/JRM1CTF.cfg /usr/share/games/teeworlds/data/JRM1CTF.cfg
-#COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/JRM2CTF.cfg /usr/share/games/teeworlds/data/JRM2CTF.cfg
-COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/TDM/JRM1TDM.cfg /usr/share/games/teeworlds/data/JRM1TDM.cfg
-#COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/JRM2TDM.cfg /usr/share/games/teeworlds/data/JRM2TDM.cfg
-COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/MOD/JRM1MOD.cfg /usr/share/games/teeworlds/data/JRM1MOD.cfg
-#COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/JRM2MOD.cfg /usr/share/games/teeworlds/data/JRM2MOD.cfg
+COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/JRM1CTF.cfg /usr/share/games/teeworlds/data/JRM1CTF.cfg
+COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/JRM2CTF.cfg /usr/share/games/teeworlds/data/JRM2CTF.cfg
+COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/JRM1TDM.cfg /usr/share/games/teeworlds/data/JRM1TDM.cfg
+COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/JRM2TDM.cfg /usr/share/games/teeworlds/data/JRM2TDM.cfg
+COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/JRM1MOD.cfg /usr/share/games/teeworlds/data/JRM1MOD.cfg
+COPY /FileStorage/Configs/ALPHA/JoshAlphaCFG/JRM2MOD.cfg /usr/share/games/teeworlds/data/JRM2MOD.cfg
 #REMY
-#COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM1CTF.cfg /usr/share/games/teeworlds/data/RHM1CTF.cfg
-#COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM2CTF.cfg /usr/share/games/teeworlds/data/RHM2CTF.cfg
-#COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM1TDM.cfg /usr/share/games/teeworlds/data/RHM1TDM.cfg
-#COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM2TDM.cfg /usr/share/games/teeworlds/data/RHM2TDM.cfg
-#COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM1MOD.cfg /usr/share/games/teeworlds/data/RHM1MOD.cfg
-#COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM2MOD.cfg /usr/share/games/teeworlds/data/RHM2MOD.cfg
+COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM1CTF.cfg /usr/share/games/teeworlds/data/RHM1CTF.cfg
+COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM2CTF.cfg /usr/share/games/teeworlds/data/RHM2CTF.cfg
+COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM1TDM.cfg /usr/share/games/teeworlds/data/RHM1TDM.cfg
+COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM2TDM.cfg /usr/share/games/teeworlds/data/RHM2TDM.cfg
+COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM1MOD.cfg /usr/share/games/teeworlds/data/RHM1MOD.cfg
+COPY /FileStorage/Configs/ALPHA/RemyAlphaCFG/RHM2MOD.cfg /usr/share/games/teeworlds/data/RHM2MOD.cfg
 
 #USERDIR - This is where the maps go
 #-----COPY /FileStorage/Maps/BETA/xxx.map /root/.local/share/teeworlds/maps/xxx.map
