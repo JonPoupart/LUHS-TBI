@@ -71,7 +71,7 @@ COPY /FileStorage/Maps/ALPHA/Trev/TWM1.map /root/.local/share/teeworlds/maps/TWM
 COPY /FileStorage/Maps/ALPHA/Trev/TWM2.map /root/.local/share/teeworlds/maps/TWM2.map
 #JOSH
 COPY /FileStorage/Maps/ALPHA/Josh/JRM1.map /root/.local/share/teeworlds/maps/JRM1.map
-#COPY /FileStorage/Maps/ALPHA/Josh/JRM2.map /root/.local/share/teeworlds/maps/JRM2.map
+COPY /FileStorage/Maps/ALPHA/Josh/JRM2.map /root/.local/share/teeworlds/maps/JRM2.map
 #REMY
 COPY /FileStorage/Maps/ALPHA/Remy/RHM1.map /root/.local/share/teeworlds/maps/RHM1.map
 COPY /FileStorage/Maps/ALPHA/Remy/RHM2.map /root/.local/share/teeworlds/maps/RHM2.map
